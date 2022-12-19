@@ -10,4 +10,5 @@ The program supports controlling 4 LEDs at once, red, green, blue, and white, yo
 ![Mac-RGB](./img/1.png)
 
 Arduino schematic here -> [Scheme](https://github.com/DiCode77/Mac-RGB/blob/main/img/2.jpg)
+
 Arduino firmware sketch here -> [Sketch](https://github.com/DiCode77/Mac-RGB/tree/main/sketch)
