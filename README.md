@@ -22,7 +22,7 @@ You can use a weaker LED strip, then the power supply will fit weaker.
 
 You can read about the maximum workload here -> [IRF740](https://www.vishay.com/docs/91054/91054.pdf)
 
-I want to note that with a heavy load, you need to put a radiator to remove heat, but as a rule you won’t load the transistors even by 50%, in my case, even at 100% brightness they are cold.
+I want to note that with a heavy load, you need to put a radiator to remove heat, in my case, the transistors are not even loaded by 50%, even at 100% brightness they are cold.
 
 As you assemble the circuit, be careful with the 12V power supply so that there is no short circuit, and the voltage does not go to the arduino, and does not damage the USB PORT! Better double check! The scheme is absolutely safe, the main thing is to do everything right.
 
